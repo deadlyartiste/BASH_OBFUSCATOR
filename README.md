@@ -6,7 +6,7 @@ termux-setup-storage
 
 pkg install python2
 
-pkg install nodejs
+pkg install nodejs or pkg intsall nodejs-lts
 
 npm install -g bash-obfuscate
 
