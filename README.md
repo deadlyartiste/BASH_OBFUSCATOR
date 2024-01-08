@@ -1,6 +1,12 @@
-# BASH_SHELL (OBFUSCATOR) BY PYTHON
+# BASH Script Obfuscator
 
+### Prerequisites
+
+- Termux
+
+  
 ## STEPS TO INSTALL ( TERMUX ) :
+
 ```bash
 termux-setup-storage
 
@@ -13,3 +19,4 @@ npm install -g bash-obfuscate
 cd /sdcard/(DIR OF enc)
 
 python2 enc
+```
