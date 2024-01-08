@@ -1,7 +1,7 @@
 # BASH_SHELL (OBFUSCATOR) BY PYTHON
 
 ## STEPS TO INSTALL ( TERMUX ) :
-
+```bash
 termux-setup-storage
 
 pkg install python2
